@@ -1,4 +1,12 @@
 # Final_Project
+#HERE IS DESCRIPTION THAT EXPLAINS THE PURPOSE OF THE PROJECT
+
+#
+#
+#
+#
+#
+
 Please consider the below factors while contributing
 
 Code Style:
